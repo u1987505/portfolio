@@ -194,7 +194,7 @@ a { color: inherit; text-decoration: none; }
 .chip {
   padding: 0.5rem 0.75rem;
   border-radius: 999px;
-  background: rgba(255,255,255,0.06);
+  background: #6be1b256;
   border: 1px solid var(--border);
   color: var(--muted);
 }
@@ -262,7 +262,7 @@ a { color: inherit; text-decoration: none; }
   padding: 1rem 1.2rem;
   border: 1px solid var(--border);
   border-radius: 18px;
-  background: rgba(110, 231, 183, 0.08);
+  background: rgba(110, 231, 183, 0.382);
   margin-bottom: 1rem;
 }
 
